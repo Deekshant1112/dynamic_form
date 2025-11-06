@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dynamic Form Builder (EJS + MongoDB) - Final ZIP
 
 ## What you get
@@ -14,3 +15,7 @@
 4. npm start
 5. Open http://localhost:4000/
 
+=======
+# dynamic_form
+A dynamic form builder web application using Node.js, Express, MongoDB, and EJS — featuring an admin dashboard to create/edit/delete forms and fields, public form rendering, and submission storage with validation.
+>>>>>>> 01ab1249e742e827c8344322c68d27a5577ce10e
